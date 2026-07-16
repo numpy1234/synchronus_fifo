@@ -1,1 +1,1 @@
-Synchronus FIFO 
+Synchronous FIFO 
